@@ -1,5 +1,8 @@
 # Portfolio Website - Achmad Nur Jaya
 
+## Preview
+![Website Preview](Asset/screenshot.png)
+
 Selamat datang di repository **Portfolio Website** saya! 🎉  
 Website ini adalah personal portfolio untuk menampilkan informasi tentang saya, keahlian, serta cara menghubungi saya.  
 
