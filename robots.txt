@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://14mme.github.io/Portfolio/sitemap.xml
